@@ -1,0 +1,5 @@
+streamlit>=1.32
+pandas>=1.5
+pillow>=9.5
+pymupdf>=1.22
+streamlit-image-coordinates>=0.3.1
