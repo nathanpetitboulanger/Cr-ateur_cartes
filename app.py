@@ -295,7 +295,7 @@ default_cfg = {
     "ent_size": 14.0,
     "prenom_color": "#000000",
     "nom_color": "#000000",
-    "ent_color": "#444444",
+    "ent_color": "#000000",
     "prenom_upper": False,
     "nom_upper": True,
     "ent_upper": False,
